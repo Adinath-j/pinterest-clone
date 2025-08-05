@@ -1,1 +1,1 @@
-pinterest clone with for the backend practice. I have used the passport strategy for authentication, multer for image uploads, ejs as view engine, mongodb for database and using express.js and node.js, mongoose.js connect-flash for flash messages, and uuid for unique post ids.
+
